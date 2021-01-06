@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.springframework.boot.autoconfigure.mongo.embedded: off
+    org.springframework.data.mongodb.core.ReactiveMongoTemplate: debug
